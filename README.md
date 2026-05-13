@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:111827,100:0891b2&text=HARISH&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Blockchain%20•%20Robotics%20•%20Security&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:111827,100:0891b2&text=HARISH&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Blockchain%20•%20Robotics%20•%20Security&descAlignY=60&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=25&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Blockchain+Researcher;Autonomous+Systems+Developer;Building+Intelligent+Architectures"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Blockchain+Researcher;Autonomous+Systems+Developer;Building+Intelligent+Architectures"/>
 
 </div>
 
@@ -14,21 +14,34 @@
 
 ### AI • Blockchain • DBMS • Robotics • Information Security • Computer Networks
 
-Building intelligent systems integrating AI, security, autonomous technologies, distributed infrastructures, and advanced computing architectures.
+Building intelligent systems integrating AI, autonomous technologies, security architectures, distributed infrastructures, and advanced computing systems.
 
 <br>
 
-- 🔭 Currently building intelligent AI & security systems  
-- 🧠 Researching blockchain, autonomous systems & semantic AI  
+- 🛠 Currently building intelligent AI & security systems  
+- 🧠 Researching blockchain, semantic AI & autonomous systems  
 - 🚀 Exploring distributed infrastructures & cognitive architectures  
 - 📫 Reach me: **YOUR_EMAIL**
 
 ---
 
-# 🌐 Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0891b2)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+# 🎧 Current Signal
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbjexample&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+
+</div>
 
 ---
 
@@ -213,21 +226,35 @@ AI • Blockchain • Robotics • Security • Networks • DBMS • Distribute
 
 ---
 
+# 🎮 Engineering Grid
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 # ⚙ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,html,css,mongodb,mysql,docker,linux,git,github,arduino,tensorflow,pytorch"/>
 
+<br><br>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&line1=python,Python,3776AB;cpp,C++,00599C;javascript,JavaScript,F7DF1E;mongodb,MongoDB,47A248;&line2=docker,Docker,2496ED;linux,Linux,FCC624;tensorflow,TensorFlow,FF6F00;pytorch,PyTorch,EE4C2C;"/>
+
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=22D3EE&line=22D3EE&point=FFFFFF&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
@@ -243,20 +270,52 @@ AI • Blockchain • Robotics • Security • Networks • DBMS • Distribute
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=22D3EE&line=22D3EE&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💭 Engineering Philosophy
+# 🎯 Current Focus
 
 ```text
-Building intelligent systems for autonomous futures.
+• Autonomous AI Systems
+• Blockchain Verification Architectures
+• Intelligent DBMS Infrastructures
+• Semantic Retrieval Systems
+• AI + Security Integration
+• Context-Aware Robotics
 ```
+
+---
+
+# 🧩 Philosophy
+
+```text
+I don't just build applications.
+
+I engineer intelligent systems capable of adaptation,
+reasoning, security, and real-world impact.
+```
+
+---
+
+# 🚀 Engineering Vision
+
+Building next-generation systems at the intersection of:
+
+```text
+AI × Security × Robotics × Blockchain × Intelligent Computing
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0891b2,100:0f172a&section=footer"/>
+
+</div>
