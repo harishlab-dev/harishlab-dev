@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-<!-- Unique identity strip — no broken badge URLs -->
 ![](https://img.shields.io/badge/◈_AI_SYSTEMS-0d1117?style=flat-square&labelColor=0d1117&color=00d4ff)
 ![](https://img.shields.io/badge/◈_BLOCKCHAIN-0d1117?style=flat-square&labelColor=0d1117&color=00d4ff)
 ![](https://img.shields.io/badge/◈_ROBOTICS-0d1117?style=flat-square&labelColor=0d1117&color=00d4ff)
@@ -69,6 +68,7 @@ focus:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -76,7 +76,7 @@ focus:
 </details>
 
 <details open>
-<summary><b>🧠 AI / ML</b></summary>
+<summary><b>🧠 AI / ML & Data Science</b></summary>
 <br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -89,6 +89,22 @@ focus:
 ![LLM Frameworks](https://img.shields.io/badge/LLM_Frameworks-6B48FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector_Databases-00B4D8?style=for-the-badge&logo=databricks&logoColor=white)
 ![Semantic Retrieval](https://img.shields.io/badge/Semantic_Retrieval-8338EC?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web & Frameworks</b></summary>
+<br>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </details>
 
@@ -98,6 +114,7 @@ focus:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -228,7 +245,7 @@ AI  •  Blockchain  •  Robotics  •  Security  •  Networks  •  DBMS  •
   <img alt="github-snake" src="https://raw.githubusercontent.com/harishlab-dev/harishlab-dev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚙️ **Snake not showing?** Set it up in 2 minutes — see the setup note at the bottom of this file.
+> 
 
 </div>
 
@@ -239,6 +256,8 @@ AI  •  Blockchain  •  Robotics  •  Security  •  Networks  •  DBMS  •
 <div align="center">
 
 [![Email](https://img.shields.io/badge/harishmari2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishmari2006@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-m-cu2024)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/harishlab--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishlab-dev)
 
